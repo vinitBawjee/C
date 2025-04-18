@@ -2,9 +2,6 @@
 
 int main() {
 
-    // "Jab C program run karte hain to compiler pehle use machine language (i.e., .exe) me convert karta hai.
-    // Fir wo .exe file system ke through run hoti hai aur output print karti hai."
-
     // Problem - Volume of a Sphere {
         int radius = 7;
         float volume = 4 * 3.14 * radius * radius * radius / 3;
