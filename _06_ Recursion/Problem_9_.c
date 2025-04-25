@@ -5,7 +5,7 @@ void preInPost(int n) {
 
     printf("Pre %d\n", n);     
     preInPost(n - 1);         
-    printf("In %d\n", n);      
+    printf("In %d\n", n);       
     preInPost(n - 1);         
     printf("Post %d\n", n);    
     return;
